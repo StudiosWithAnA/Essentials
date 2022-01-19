@@ -1,10 +1,7 @@
 ﻿/* 
     ------------------- Code Monkey -------------------
 
-    Thank you for downloading this Code Monkey project
-    I hope you find it useful in your own projects
-    If you have any questions let me know
-    Cheers!
+    //This was made by the YouTuber CodeMonkey
 
                unitycodemonkey.com
     --------------------------------------------------
